@@ -1,7 +1,15 @@
 # Project Planning
+<<<<<<< HEAD
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
+=======
+
+For this assignment, you'll create some initial plans for your project.
+
+## Assignment Description
+
+>>>>>>> c837211 (added photos)
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
 ## Submission Instructions
@@ -14,6 +22,16 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+<<<<<<< HEAD
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+=======
+https://trello.com/b/aCYbJqvn/capstone-project
+
+### Project Repo Link
+
+Include a link to your project on GitHub.
+
+https://github.com/chasekelly13/PokemonGame
+>>>>>>> c837211 (added photos)
